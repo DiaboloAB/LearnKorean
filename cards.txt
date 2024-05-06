@@ -1,0 +1,20 @@
+bestStreak=12
+아,a,a,1,0
+어,eo,eo,1,0
+이,i,i,1,0
+오,o,o,1,0
+우,u,u,1,0
+으,eu,eu,1,0
+의,ui,eu,1,0
+사랑,love,sarang,3,0
+안녕하세요,Hello,annyeonghaseyo,5,5
+사과,apple,sagwa,3,3
+바나나,banana,banana,4,3
+감사합니다,Thank you,gamsahabnida,6,6
+감기,cold,gamgi,2,2
+곰,bear,gom,2,2
+가방,bag,gabang,3,3
+나비,butterfly,nabi,3,3
+미국,USA,miguk,4,4
+한국,Korea,hanguk,4,4
+컴퓨터,computer,keompyuteo,5,5
